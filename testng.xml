@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+    <class name ="com.thehartford.cue.Expansion.CUE_RE_Expn_Marine"/>
+     <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_Submission_Overview"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_HFPPronto_FRED"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_COMP_AllOtherUISpecsl"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Prequal"/>
+      <class name="com.thehartford.cue.compregression.PR.CUE_PR_COMP_GenInfo"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Exposures"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_ContractReview"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_COMP_AccountEval"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Losses"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_Change_Controls"/>
+      <class name="com.thehartford.standardregression.RE.CUE_ReconAccountDeepLink"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_FSD"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_MissingInfo"/>
+      <class name="com.thehartford.cue.compregression.RE.Cue_RE_Comp_Auto"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_FRED"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_Property"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_AccountEval"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_UMB"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_CoverageSummary"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_WC"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_ToolsandReferences"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Alerts_Regressions"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Referrallog"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_VehicleSummary"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_RiskEngineering"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_GuidanceText"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_Named_Insured"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_NamedInsured"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_GlobalNavigation"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_TortLog"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_PricingMod"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_LocationSummary"/>
+      <class name="com.thehartford.standardregression.PR.CUE_PR_GenInfo"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_FRED"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Drivers"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_SubmissionOverview"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_GL"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_EssentialServices"/>
+      <class name="com.thehartford.cue.compregression.PR.CUE_PR_Comp_Auto_Vehicle_Coverages"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_ClassSummary"/>
+      <class name="com.thehartford.standardregression.RE.CUE_RE_Notes"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_Missing_Info"/>
+      <class name="com.thehartford.cue.compregression.RE.CUE_RE_Comp_Prequal"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
